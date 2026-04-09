@@ -20,7 +20,7 @@
       <ul>
         <li>🎓 <b>Education:</b> B.Tech in Artificial Intelligence & Data Science at Bikaner Technical University.</li>
         <li>💻 <b>Experience:</b> Internships in <b>AI</b> and <b>Full-Stack Web Development</b>.</li>
-        <li>🍷 <b>Current Focus:</b> Building a comprehensive AI/ML project focused on the French wine market.</li>
+        <li>🍷 <b>Current Focus:</b> Building a comprehensive AI/ML project.</li>
         <li>🌍 <b>Future Goals:</b> Cracking the IELTS, mastering DSA in Python, and becoming a successful Machine Learning Engineer.</li>
         <li>🗣️ <b>Languages:</b> Code (Python, JS) & Spoken (learning French & Italian!).</li>
         <li>⚡ <b>Off-Keyboard:</b> Grinding <i>Elden Ring</i> or <i>Kingdom Come: Deliverance II</i>, watching <i>One Piece</i>, or tuning into Indian Hip-Hop & reggaeton.</li>
@@ -59,6 +59,13 @@
 </p>
 
 <br>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kunal-garg-1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunal-garg-1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+</p>
+<br>
+
+<br>
 
 <div align="center">
   <h3>My Neural Network Brain</h3>
@@ -67,14 +74,6 @@
 
 <br>
 
-<div align="center">
-  <h2>🌆 Isometric 3D Git City</h2>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-view.svg">
-    <source media="(prefers-color-scheme: light)" srcset="profile-3d-contrib/profile-green-animate.svg">
-    <img alt="3D Git City" src="profile-3d-contrib/profile-night-view.svg" width="100%">
-  </picture>
-</div>
 
 <br>
 
