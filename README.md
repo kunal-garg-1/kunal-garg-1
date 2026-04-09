@@ -58,15 +58,6 @@
   <img src="https://img.shields.io/badge/Colab-%23F9AB00.svg?style=for-the-badge&logo=googlecolab&color=f9ab00" alt="Colab" />
 </p>
 
-<br>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kunal-garg-1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunal-garg-1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-</p>
-<br>
-
-<br>
-
 <div align="center">
   <h3>My Neural Network Brain</h3>
   <img src="./neural-net.svg" alt="Animated Neural Network" />
