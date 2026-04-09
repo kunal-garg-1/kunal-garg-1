@@ -60,12 +60,10 @@
 
 <br>
 
-<h2 align="center">📊 GitHub Analytics</h2>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kunal-garg-1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&v=1" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kunal-garg-1&theme=tokyonight&hide_border=true&background=0D1117" width="48%" />
+  <h3>My Neural Network Brain</h3>
+  <img src="./neural-net.svg" alt="Animated Neural Network" />
 </div>
-<br>
 
 <br>
 
