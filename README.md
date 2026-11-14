@@ -1,63 +1,118 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Kunal%20Garg&fontSize=80&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20Machine%20Learning%20%7C%20Full-Stack&descAlignY=55&descAlign=50" />
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=EE4C2C&center=true&vCenter=true&width=600&lines=B.Tech+AI+%26+Data+Science;Machine+Learning+Engineer;Full-Stack+Web+Developer;Bridging+Algorithms+%26+Applications" alt="Typing SVG" />
-  </a>
-  <br><br>
+# ⚡ Kunal Garg
+### **AI & Computer Vision Researcher | Production ML Systems Engineer**
+*B.Tech in Artificial Intelligence & Data Science (8.26 CGPA / 8.95 Peak SGPA)*
 
-  <a href="https://www.linkedin.com/in/kunal-garg-b48665221/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:kunalgarg1001@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</div>
-
-<br>
-
-<table align="center" width="100%">
-  <tr>
-    <td width="60%" valign="top">
-      <h2>🚀 About Me</h2>
-      <p>I'm passionate about diving into complex, mind-bending problems—whether that's training deep learning models or figuring out the lore of <i>Dark</i> and <i>Severance</i>.</p>
-      <ul>
-        <li>🎓 <b>Education:</b> B.Tech in Artificial Intelligence & Data Science at Bikaner Technical University.</li>
-        <li>💻 <b>Experience:</b> Internships in <b>AI</b> and <b>Full-Stack Web Development</b>.</li>
-        <li>🍷 <b>Current Focus:</b> Building a comprehensive AI/ML project.</li>
-        <li>🌍 <b>Future Goals:</b> Cracking the IELTS, mastering DSA in Python, and becoming a successful Machine Learning Engineer.</li>
-        <li>🗣️ <b>Languages:</b> Code (Python, JS) & Spoken (learning French & Italian!).</li>
-        <li>⚡ <b>Off-Keyboard:</b> Grinding <i>Elden Ring</i> or <i>Kingdom Come: Deliverance II</i>, watching <i>One Piece</i>, or tuning into Indian Hip-Hop & reggaeton.</li>
-      </ul>
-    </td>
-    <td width="40%" align="center" valign="top">
-      <h2>📟 Live Console</h2>
-      <br>
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=14&pause=1000&color=00FF00&background=0D1117&center=false&vCenter=false&width=400&height=200&lines=kunal@macbook:~$+python3+train_model.py;>_Initializing+neural+network...;>_Epoch+1/100:+Loss:+0.42;>_Epoch+100/100:+Loss:+0.02;>_Model+converged.+Saving+weights...;kunal@macbook:~$+npm+run+build;>_Compiling+React+components...;>_Build+successful!;kunal@macbook:~$+python3+dsa_grind.py;>_Executing+LeetCode+Hard...+Done!" alt="Animated Terminal Console" />
-    </td>
-  </tr>
-</table>
-
-<br>
-
-<h2 align="center">🛠️ Tech Stack & Arsenal</h2>
 <p align="center">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
-  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
-  <br>
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" />
-  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express" />
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <br>
-  <img src="https://img.shields.io/badge/sql-%23003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/VS%20Code-%230078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Colab-%23F9AB00.svg?style=for-the-badge&logo=googlecolab&color=f9ab00" alt="Colab" />
+  <a href="https://doi.org/10.5281/zenodo.24125244">
+    <img src="https://img.shields.io/badge/CERN%20%2F%20Zenodo%20DOI-10.5281%2Fzenodo.24125244-0284c7?style=for-the-badge&logo=zenodo&logoColor=white" alt="CERN Zenodo DOI" />
+  </a>
+  <a href="https://www.linkedin.com/in/kunal-garg-b48665221/">
+    <img src="https://img.shields.io/badge/LinkedIn-Kunal%20Garg-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:kunalgarg1001@gmail.com">
+    <img src="https://img.shields.io/badge/Email-kunalgarg1001%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
 
+</div>
+
+---
+
+<table>
+<tr>
+<td width="58%" valign="top">
+
+### 🚀 About Me
+
+I'm passionate about diving into complex, mind-bending problems—whether that's architecting production deep learning models and debugging byte-level serialization pipelines, or figuring out the lore of *Dark* and *Severance*.
+
+- 🎓 **Education:** B.Tech in **Artificial Intelligence & Data Science** at Bikaner Technical University (**8.26 CGPA** | **8.95 Peak SGPA**).
+- 📄 **Published Research:** 1st-Author Indexed Preprint on **CERN / Zenodo & OpenAIRE** ([DOI: 10.5281/zenodo.24125244](https://doi.org/10.5281/zenodo.24125244)).
+- 🏆 **Olympiads & Scientific Distinctions:**
+  - **UrFU *Izumrud.Student* Olympiad:** Scored **70/100** in *Engineering & Computer Science* (Proctored Qualifier).
+  - **3x Stepik Distinctions (*С отличием*):** *Bioinformatics Institute (St. Petersburg)* & *Samsung Research Russia (AI Center Moscow)*.
+  - **RANEPA & Ministry of Culture Dictation:** **30/30** (in Cyrillic).
+- 💻 **Experience:** Internships in AI & Full-Stack Web Development + STEM Educator (Math & Physics).
+- 🌍 **Languages:** Code (`Python`, `SQL`, `JS`) & Spoken (learning **Russian / Русский**, **French & Italian**!).
+- ⚡ **Off-Keyboard:** Grinding *Elden Ring* or *Kingdom Come: Deliverance II*, watching *One Piece*, or tuning into Hip-Hop.
+
+</td>
+<td width="42%" valign="top">
+
+### 🖥️ Live Console | О себе (RU)
+
+```yaml
+user: "Kunal Garg (Гарг Кунал)"
+role: "AI & Computer Vision Researcher"
+degree: "B.Tech AI & Data Science (8.26 CGPA)"
+publication_doi: "10.5281/zenodo.24125244"
+olympiad_urfu: "70/100 (Engineering & CS)"
+russian_certs:
+  - "Bioinformatics Inst: Stats (С отличием)"
+  - "Bioinformatics Inst: DS/ML (С отличием)"
+  - "Samsung AI Russia: CV/DL (С отличием)"
+status: ">_ Ready for Master's AI Research"
+```
+
+**🇷🇺 Краткое резюме:**
+Исследователь в области искусственного интеллекта и компьютерного зрения, инженер промышленных ML-систем (`PyTorch`, `FastAI`, `Scikit-Learn`, `FastAPI`, `Docker`). Автор научной работы в CERN/Zenodo ([10.5281/zenodo.24125244](https://doi.org/10.5281/zenodo.24125244)) с аннотацией на русском языке.
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🧠 Production AI Systems & Published Research | Промышленные ИИ-системы
+
+| System & Repository | Live Deployment | Architecture & Empirical Highlights |
+| :--- | :--- | :--- |
+| 🌱 **[AgriSense AI](https://github.com/kunal-garg-1/Agri-Sense-AI)**<br>*(Dual-Engine CV + Econometrics)* | [🔗 **Live Streamlit App**](https://agri-sense-ai-tool.streamlit.app/)<br>[📄 **CERN DOI Paper**](https://doi.org/10.5281/zenodo.24125244) | • **Vision (`ResNet-18` / FastAI):** 2-stage discriminative fine-tuning across 15 PlantVillage classes ($128 \times 128$); **99.95% accuracy**, **0.9996 Macro F1** ($\mathcal{L}_{\text{valid}}: 0.195251 \rightarrow 0.001528$ in `9m 54s` on T4 GPU).<br>• **Pricing (`Random Forest`, 100 Trees):** Leakage-free econometric model ($N = 2,794$, $D = 17$ one-hot features); **$R^2 = 0.7200$**, **$\text{RMSE} = 2,659.49\text{ INR}$**.<br>• **MLOps:** Pure PyTorch `state_dict` (`disease_weights.pth`) + `model_columns.pkl` schema pinning. |
+| 🏠 **[Île-de-France Housing Engine](https://github.com/kunal-garg-1/French-Housing-Engine)**<br>*(Dockerized FastAPI Microservice)* | [🔗 **Live Render API**](https://french-housing-engine.onrender.com/) | • **Stack:** `FastAPI`, `Uvicorn`, `Docker`, `Scikit-Learn`, `Tailwind CSS`.<br>• **97.8% Payload Compression:** Pruned ensemble (`max_depth=12`, `n_estimators=50`) from **`233 MB → ~5 MB`** (`idf_real_estate_model.pkl`), bypassing Git LFS limits while preserving $R^2$.<br>• **Hardening:** `.dockerignore` OOM shielding + multi-stage Docker layer caching. |
+| 🍷 **[Deep-Bordeaux Wine Predictor](https://github.com/kunal-garg-1/Bordeaux_wine_predictor)**<br>*(Custom PyTorch MLP Regression)* | [🔗 **Live Streamlit App**](https://bordeauxwinepredictor.streamlit.app/) | • **Topology:** Custom `PyTorch` Multi-Layer Perceptron (`11 → 64 ReLU → 32 ReLU → 1`) over 11 physicochemical features.<br>• **Inference:** `Adam (lr=0.001)` + `MSELoss` with persisted `StandardScaler` (`scaler.pkl`) and `torch.no_grad()` `float32` tensor execution. |
+| 🎨 **[The AI Curator: Art Classifier](https://github.com/kunal-garg-1/French_Art_Classifier)**<br>*(Deep CNN Brushstroke Classifier)* | [🔗 **Live Streamlit App**](https://french-art-curator.streamlit.app/) | • **Pipeline:** Automated web scraping (`bing-image-downloader`) + `ImageClassifierCleaner` curation across 4 French Masters (*Monet, Renoir, Degas, Cézanne*).<br>• **Python 3.13 PyTorch Bypass:** Raw `ResNet-18` `model.eval()` weights + custom `torchvision.transforms` and `softmax` pipeline. |
+
+---
+
+### 🛠️ Tech Stack & Arsenal
+
+<div align="center">
+
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAI-00A98F?style=for-the-badge&logo=fastai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <br/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git%20%26%20Git%20LFS-F05032?style=for-the-badge&logo=git&logoColor=white" />
+
+</div>
+
+---
+
+### 📖 Citation (CERN / Zenodo DOI)
+
+```bibtex
+@article{garg2026agrisense,
+  author    = {Garg, Kunal},
+  title     = {AgriSense AI: An Integrated Dual-Engine Deep Transfer Learning and Ensemble Regression Framework for Crop Foliar Disease Diagnosis and Agricultural Commodity Price Forecasting},
+  journal   = {Zenodo (CERN) / OpenAIRE},
+  year      = {2026},
+  month     = nov,
+  doi       = {10.5281/zenodo.24125244},
+  url       = {[https://doi.org/10.5281/zenodo.24125244](https://doi.org/10.5281/zenodo.24125244)}
+}
+```
 <div align="center">
   <h3>My Neural Network Brain</h3>
   <img src="./neural-net.svg" alt="Animated Neural Network" />
