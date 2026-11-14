@@ -1,8 +1,8 @@
 <div align="center">
+  <img src="./banner.svg" width="100%" alt="Kunal Garg - AI & Computer Vision Researcher" />
+</div>
 
-# ⚡ Kunal Garg
-### **AI & Computer Vision Researcher | Production ML Systems Engineer**
-*B.Tech in Artificial Intelligence & Data Science (8.26 CGPA / 8.95 Peak SGPA)*
+<br/>
 
 <p align="center">
   <a href="https://doi.org/10.5281/zenodo.24125244">
@@ -15,8 +15,6 @@
     <img src="https://img.shields.io/badge/Email-kunalgarg1001%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
-
-</div>
 
 ---
 
@@ -113,21 +111,27 @@ status: ">_ Ready for Master's AI Research"
   url       = {[https://doi.org/10.5281/zenodo.24125244](https://doi.org/10.5281/zenodo.24125244)}
 }
 ```
+
+---
+
 <div align="center">
-  <h3>My Neural Network Brain</h3>
-  <img src="./neural-net.svg" alt="Animated Neural Network" />
+
+### My Neural Network Brain
+
+<img src="./neural-net.svg" alt="Neural Network Animation" width="420" />
+
 </div>
 
-<br>
-
-
-<br>
+---
 
 <div align="center">
-  <h2>🐍 Contribution Graph Snake</h2>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kunal-garg-1/kunal-garg-1/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kunal-garg-1/kunal-garg-1/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kunal-garg-1/kunal-garg-1/output/github-contribution-grid-snake.svg">
-  </picture>
+
+### 🐍 Contribution Graph Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kunal-garg-1/kunal-garg-1/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kunal-garg-1/kunal-garg-1/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/kunal-garg-1/kunal-garg-1/output/github-contribution-grid-snake-dark.svg" />
+</picture>
+
 </div>
