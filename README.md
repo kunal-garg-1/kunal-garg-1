@@ -108,7 +108,7 @@ status: ">_ Ready for Master's AI Research"
   year      = {2026},
   month     = nov,
   doi       = {10.5281/zenodo.24125244},
-  url       = {[https://doi.org/10.5281/zenodo.24125244](https://doi.org/10.5281/zenodo.24125244)}
+  url       = {https://doi.org/10.5281/zenodo.24125244}
 }
 ```
 
