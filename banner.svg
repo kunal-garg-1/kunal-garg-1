@@ -1,1 +1,28 @@
-
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 210" width="900" height="210">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f172a">
+        <animate attributeName="stop-color" values="#0f172a;#1e1b4b;#0f172a" dur="10s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="50%" stop-color="#334155">
+        <animate attributeName="stop-color" values="#334155;#3b1d38;#334155" dur="10s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="100%" stop-color="#7c2d12">
+        <animate attributeName="stop-color" values="#7c2d12;#1e293b;#7c2d12" dur="10s" repeatCount="indefinite" />
+      </stop>
+    </linearGradient>
+    <linearGradient id="accentLine" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38bdf8" stop-opacity="0" />
+      <stop offset="50%" stop-color="#38bdf8" stop-opacity="1" />
+      <stop offset="100%" stop-color="#38bdf8" stop-opacity="0" />
+    </linearGradient>
+  </defs>
+  <rect width="900" height="210" rx="12" fill="url(#bgGrad)" />
+  <path fill="#ffffff" fill-opacity="0.05" d="M0,150 C220,200 420,100 650,155 C780,185 850,140 900,155 L900,210 L0,210 Z">
+    <animate attributeName="d" dur="8s" repeatCount="indefinite" values="M0,150 C220,200 420,100 650,155 C780,185 850,140 900,155 L900,210 L0,210 Z; M0,160 C240,110 460,195 670,140 C790,115 860,165 900,145 L900,210 L0,210 Z; M0,150 C220,200 420,100 650,155 C780,185 850,140 900,155 L900,210 L0,210 Z" />
+  </path>
+  <text x="450" y="88" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="52" font-weight="800" fill="#ffffff" text-anchor="middle" letter-spacing="1">Kunal Garg</text>
+  <rect x="200" y="104" width="500" height="2" fill="url(#accentLine)" />
+  <text x="450" y="134" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="17" font-weight="600" fill="#e2e8f0" text-anchor="middle" letter-spacing="0.5">AI / Computer Vision Researcher  |  Production ML Systems Engineer</text>
+  <text x="450" y="164" font-family="Consolas, monospace" font-size="13.5" font-weight="500" fill="#38bdf8" text-anchor="middle">B.Tech in AI and Data Science (8.26 CGPA / 8.95 Peak SGPA) • CERN DOI: 10.5281/zenodo.24125244</text>
+</svg>
